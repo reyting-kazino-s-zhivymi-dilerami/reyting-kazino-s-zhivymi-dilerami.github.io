@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: reyting-kazino-s-zhivymi-dilerami.github.io
+Sitemap: https://reyting-kazino-s-zhivymi-dilerami.github.io/sitemap.xml
